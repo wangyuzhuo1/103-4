@@ -1,0 +1,13 @@
+.heading{
+    width: 60%;
+    font-size: 20px;
+}
+body{
+    background-color: lightgreen;
+    color: black;
+}
+#webcam{
+    border: 3px dashed red;
+    width: 355px;
+    height: 355px;
+}
